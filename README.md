@@ -3,12 +3,12 @@
 <hr> 
 
 ## Autores
-| Código de Estudiante | Nombre de Estudiante  | Carrera | Rol |
-|----------------------|-----------------------|---------|-----|
+| Código de Estudiante | Nombre de Estudiante  |        Carrera         |   Rol   |
+|----------------------|-----------------------|------------------------|---------|
 | u202318323           | Matias Aliaga Aguirre | Ingenieria de software | Miembro |
 | u202318731           | Tenorio Medina Piero  | Ingenieria de software | Miembro |
 | u202311965           | Lorenzo Balicco       | Ingenieria de sistemas | Miembro |
-|                      |                       |                        |         |
+| u202318726           | Katherine Naomi Meza  | Ingenieria de sistemas | Miembro |
 |                      |                       |                        |         |
 |                      |                       |                        |         |
 |                      |                       |                        |         |
