@@ -3,15 +3,15 @@
 <hr> 
 
 ## Autores
-| Código de Estudiante | Nombre de Estudiante  | Carrera | Rol |
-|----------------------|-----------------------|---------|-----|
-| u202318323           | Matias Aliaga Aguirre | Ingenieria de software | Miembro |
-|                      |                       |                        |         |
-|                      |                       |                        |         |
-|                      |                       |                        |         |
-|                      |                       |                        |         |
-|                      |                       |                        |         |
-|                      |                       |                        |         |
+| Código de Estudiante |   Nombre de Estudiante   | Carrera | Rol |
+|----------------------|--------------------------|---------|-----|
+| u202318323           | Matias Aliaga Aguirre    | Ingenieria de software | Miembro |
+| u202318726           | Katherine Meza Tupayachi | Ingenieria de Sistema  | Miembro |
+|                      |                          |                        | Miembro |
+|                      |                          |                        | Miembro |
+|                      |                          |                        | Miembro |
+|                      |                          |                        | Miembro |
+|                      |                          |                        |  Lider  |
 
 <hr>
 
